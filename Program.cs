@@ -5,7 +5,7 @@ namespace Pi_Approximation_MC
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //Console.WriteLine("Hello, World!");
 
             double NO_OF_ITERATIONS = 5.0e+6;
 
